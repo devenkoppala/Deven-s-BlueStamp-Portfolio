@@ -38,11 +38,18 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 The project is a drawing machine, I plan to use linear rails, stepper motors, an Arduino, and a driver.
-  The componenets make it so you can program the robot to move around using the rails. 
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+  The componenets make it so you can program the robot to move around using the rails.
+  **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Starter Project
+For my starter project, I completed a robot badge with blinking lights. The project uses a 3-volt battery and 2 LEDs that nonstop blink. 
+The overall project was really simple but it was an easy way to learn and develop my soldering skills.
+
+Insert starter project video here :::::::::::
+
+
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
