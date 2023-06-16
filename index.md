@@ -1,5 +1,5 @@
 # Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+My project is a CNC Pen Plotter which is a machine that can draw. It uses linear rails and stepper motors so the robot can move around the plane. It can draw endless patterns and you can create your own drawings using g-code. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -37,6 +37,8 @@ For your first milestone, describe what your project is and how you plan to buil
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
+The project is a drawing machine, I plan to use linear rails, stepper motors, an Arduino, and a driver.
+  The componenets make it so you can program the robot to move around using the rails. 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
