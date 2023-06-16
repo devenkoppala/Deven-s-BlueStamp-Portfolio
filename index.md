@@ -1,4 +1,4 @@
-# Project Name Here
+# CNC Pen Plotter
 My project is a CNC Pen Plotter which is a machine that can draw. It uses linear rails and stepper motors so the robot can move around the plane. It can draw endless patterns and you can create your own drawings using g-code. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
