@@ -47,7 +47,7 @@ The project is a drawing machine, I plan to use linear rails, stepper motors, an
 For my starter project, I completed a robot badge with blinking lights. The project uses a 3-volt battery and 2 LEDs that nonstop blink. 
 The overall project was really simple but it was an easy way to learn and develop my soldering skills.
 
-Insert starter project video here :::::::::::
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tg4g277qics" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
