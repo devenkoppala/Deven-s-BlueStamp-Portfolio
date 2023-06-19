@@ -7,9 +7,9 @@ My project is a CNC Pen Plotter which is a machine that can draw. It uses linear
 
 <!---Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.--->
 
-![Headstone Image](logo.svg)
+
   
-# Final Milestone
+<!---# Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
@@ -39,7 +39,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - What your plan is to complete your project
   **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> --->
 
 # Starter Project
 For my starter project, I completed a robot badge with blinking lights. The project uses a 3-volt battery and 2 LEDs that blink nonstop. 
