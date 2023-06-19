@@ -45,9 +45,7 @@ For your first milestone, describe what your project is and how you plan to buil
 For my starter project, I completed a robot badge with blinking lights. The project uses a 3-volt battery and 2 LEDs that blink nonstop. 
 The overall project was really simple but it was an easy way to learn and develop my soldering skills.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tg4g277qics" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tg4g277qics?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 <!---Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. --->
