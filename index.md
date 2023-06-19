@@ -42,7 +42,7 @@ For your first milestone, describe what your project is and how you plan to buil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Starter Project
-For my starter project, I completed a robot badge with blinking lights. The project uses a 3-volt battery and 2 LEDs that nonstop blink. 
+For my starter project, I completed a robot badge with blinking lights. The project uses a 3-volt battery and 2 LEDs that blink nonstop. 
 The overall project was really simple but it was an easy way to learn and develop my soldering skills.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tg4g277qics" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
