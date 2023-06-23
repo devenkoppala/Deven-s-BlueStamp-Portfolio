@@ -45,7 +45,8 @@ For your first milestone, describe what your project is and how you plan to buil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tg4g277qics?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For my starter project, I completed a robot badge with blinking lights. I soldered a battery holder and 2 LEDS onto the board and attached a 3-volt battery. Before this project, I had struggled with soldering components on a board with little space. And I would need to have good soldering skills for my main project, so this project was really simple but it was an easy way to learn and develop my soldering skills.
+
+Initially, I had tried to complete the digital clock but I had struggled with the little room for soldering and because of this, I had short-circuited an IC chip which killed the clock. I wasn't able to solder carefully enough for the jam packed board, so I chose the Robot badge with blinking LEDs since it had much more room for the solder.  I would need to have good soldering skills for my main project, so this project was really simple but it was an easy way to learn and develop my soldering skills. To assemble I soldered a battery holder and 2 LEDS onto the board and then attached a 3-volt battery, and a clip so it could attach to something.
 
 
 
