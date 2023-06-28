@@ -19,18 +19,24 @@ For your final milestone, explain the outcome of your project. Key details to in
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+--->
 # Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
+For the 2nd Milestone, I worked on the software for this project, so I could complete a drawing
+- First, I flashed the Arduino Uno with the firmware that was provided with the Kit
+- Next, I installed Universal G-Code Sender and changed a few settings to match the machine
+- To complete my drawing I first need to create  a gcode for the machine that I can use to test it. I downloaded and copied a simple equilateral triangle and converted it to SVG and then searched for an SVG --> to GCODE converter on GitHub. After that, I was ready to try and print my first drawing
+- Some challenges were the pen wasn't compeltl e stable and that it wouldn't be able t print too precisely 
+AAfter tinkering around with ti and adjusting it for better results I re-tested but this time with a harder gcode.
+
 - What has been surprising about the project so far
+
+- 
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
---->
+
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wHJjRqvzGj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
