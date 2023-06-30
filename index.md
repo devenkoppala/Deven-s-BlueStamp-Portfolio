@@ -5,7 +5,7 @@ My project is a CNC Pen Plotter which is a machine that can draw. It uses linear
 |:--:|:--:|:--:|:--:|
 | Deven K | Mountain View High School | Mechanical Engineering | Incoming Freshman |
 
-Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.
+
 
 
   
@@ -21,18 +21,16 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 --->
 # Second Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ejIaXOi90mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 For the 2nd Milestone, I worked on the software for this project, so I could complete a drawing
 - First, I flashed the Arduino Uno with the firmware that was provided with the Kit
 - Next, I installed Universal G-Code Sender and changed a few settings to match the machine
 - To complete my drawing I first need to create  a gcode for the machine that I can use to test it. I downloaded and copied a simple equilateral triangle and converted it to SVG and then searched for an SVG --> to GCODE converter on GitHub. After that, I was ready to try and print my first drawing
-- Some challenges were the pen wasn't compeltl e stable and that it wouldn't be able t print too precisely 
-AAfter tinkering around with ti and adjusting it for better results I re-tested but this time with a harder gcode.
+- Some challenges were the pen wasn't complete e stable and that it wouldn't be able t print too precisely 
+After tinkering around with it and adjusting it for better results I re-tested but this time with a harder gcode.
 
-- What has been surprising about the project so far
-
-- 
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
 
 
 
@@ -75,7 +73,7 @@ void loop() {
 
 }
 ``` 
-
+--->
 <!---# Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
@@ -89,3 +87,4 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 
+--->
