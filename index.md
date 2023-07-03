@@ -1,6 +1,5 @@
 # CNC Pen Plotter
-My project is a CNC Pen Plotter which is a machine that can draw. It uses linear rails and stepper motors so the robot can move around the plane. It can draw endless patterns and you can create your own drawings using g-code. 
-
+My project is a CNC Pen Plotter which is a machine that can draw. it uses acylic mounts that support linear rails and 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Deven K | Mountain View High School | Mechanical Engineering | Incoming Freshman |
@@ -39,9 +38,12 @@ After tinkering around with it and adjusting it for better results I re-tested b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wHJjRqvzGj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My project is the CNC Pen Plotter, it is basically a drawing machine. For my first milestone, I completed the assembly of the project
-- It utilizes Stepper and servo motors to move a pulley belt around so the machine can move around an XY plane and draw
-- Has acrylic pedestals and mounts that hold up the motors and have slots to tighten the rails
-- Some challenges with the nuts as some parts aren't tight enough as I want them and were able to move around
+ It utilizes acrylic pedestals and mounts that hold up the motors, and bearings for the rails, and have slots to tighten the rails
+- It also has stepper and servo motors to move a pulley belt around so the machine can move around an XY plane and draw
+- A aluminum profile holds the cables for the connections of the stepper and servo motors 
+-  Some challenges were that the nuts weren't all tight enough so the parts could move around causing there to be errors in the drawing
+- To fix this I had to use a screwdriver to secure it very tightly so I wouldn't have to re-adjust it after
+- I also had trouble with some of the screws, but I realized that it is because the acrylic parts weren't in the exact spots and weren't layered correctly, but those are easy fixes.
 - Afterwards, I plan to test some of the g-codes that were given with the project and then create my own
 
 
