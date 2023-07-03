@@ -1,5 +1,5 @@
 # CNC Pen Plotter
-My project is a CNC Pen Plotter which is a machine that can draw. it uses acylic mounts that support linear rails and 
+My project is a CNC Pen Plotter which is a machine that can draw. It uses acrylic mounts that support linear rails and stepper motors. The motors move a pulley belt around which permits the machine to move around an XY plane similar to the movement of a 3d printer except in 2d. It has a servo motor at the end of one mount which acts as the pen up and down function which is the z-axis in this case. It has an Arduino uno with A4988 stepper drivers attached which is the main board connected to all the motors. The machine uses gcode to give instructions to the CNC machine and it takes that and draws.   
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Deven K | Mountain View High School | Mechanical Engineering | Incoming Freshman |
