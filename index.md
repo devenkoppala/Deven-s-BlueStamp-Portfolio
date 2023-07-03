@@ -24,11 +24,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ejIaXOi90mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-For the 2nd Milestone, I worked on the software for this project, so I could complete a drawing
-- First, I flashed the Arduino Uno with the firmware that was provided with the Kit
-- Next, I installed Universal G-Code Sender and changed a few settings to match the machine
-- To complete my drawing I first need to create  a gcode for the machine that I can use to test it. I downloaded and copied a simple equilateral triangle and converted it to SVG and then searched for an SVG --> to GCODE converter on GitHub. After that, I was ready to try and print my first drawing
-- Some challenges were the pen wasn't complete e stable and that it wouldn't be able t print too precisely 
+For the 2nd Milestone, I worked on the software for this project, so it could complete a drawing
+- First, I flashed the Arduino Uno with the firmware that was provided with the kit, so the machine would have basic instructions installed
+- Next, I installed Universal G-Code Sender and changed a few settings to match the machine. This program allows me to send gcode to CNC machines and give mine the instructions to draw
+- To complete my drawing I first need to create  a gcode for the machine that I can use to test it. To test, I wanted to start with something simple, so I  downloaded and copied a simple equilateral triangle and converted it to SVG, and then searched for an SVG --> to GCODE converter on GitHub. I found one quite easily and after that, I was ready to test. A few challenges were the pen wasn't always stable and the paper surface wasn't completely smooth either which caused there to be smudges and parts where the machine couldn't pass through
 After tinkering around with it and adjusting it for better results I re-tested but this time with a harder gcode.
 
 
