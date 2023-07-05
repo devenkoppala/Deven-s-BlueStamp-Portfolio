@@ -1,8 +1,6 @@
 # CNC Pen Plotter
 My project is a CNC Pen Plotter which is a machine that can draw. It uses acrylic mounts that support linear rails and stepper motors. The motors move a pulley belt around which permits the machine to move around an XY plane similar to the movement of a 3d printer except in 2d. It has a servo motor at the end of one mount which acts as the pen up and down function which is the z-axis in this case. It has an Arduino uno with A4988 stepper drivers attached which is the main board connected to all the motors. The machine uses gcode to give instructions to the CNC machine and it takes that and draws.   
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
-| Deven K | Mountain View High School | Mechanical Engineering | Incoming Freshman |
+**| Deven K | Mountain View High School | Mechanical Engineering | Incoming Freshman |**
 
 
 
@@ -16,12 +14,7 @@ To do this I would have to find an image that wouldn't be too difficult for the 
 I found a cool Greek pattern and resized it so it would fit on the plane and then converted it into a code file. I experimented around with it and found that the machine made lines when it was trying to travel around the plane which ruined the drawing. To fix this, I had to go into notepad ++ and find all the places where this is the G0 commands which is where all the unwanted lines where I added M5 before and M3S500 after which puts the pen up and then down so there are no extra lines
 After that, I was set to test, and this time it worked ver well created the image with minimal errors.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
---->
-# Second Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ejIaXOi90mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 For the 2nd Milestone, I worked on the software for this project, so it could complete a drawing
