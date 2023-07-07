@@ -13,7 +13,9 @@ For my final milestone, I completed a drawing of my own
 To do this I would have to find an image that wouldn't be too difficult for the machine and it would have to be the right size
 I found a cool Greek pattern and resized it so it would fit on the plane and then converted it into a code file. I experimented around with it and found that the machine made lines when it was trying to travel around the plane which ruined the drawing. To fix this, I had to go into notepad ++ and find all the places where this is the G0 commands which is where all the unwanted lines where I added M5 before and M3S500 after which puts the pen up and then down so there are no extra lines
 After that, I was set to test, and this time it worked ver well created the image with minimal errors.
+# Second Milestone 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ejIaXOi90mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
