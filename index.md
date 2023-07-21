@@ -66,5 +66,7 @@ Initially, I had tried to complete the digital clock but I had struggled with th
 |Arduino controller|	$26.99|	<a href="https://www.amazon.com/Control-Engraving-Machine-Motherboard-Corexy/dp/B09DWYRWP8"> Link </a>|
 |MG90 steering gear|	$8.49|	<a href="https://www.amazon.com/Replace-Helicopter-Airplane-Controls-Vehicle/dp/B09KXM5L7Z/ref=asc_df_B09KXM5L7Z/?tag=hyprod-20&linkCode=df0&hvadid=647294738363&hvpos=&hvnetw=g&hvrand=5834326162893392175&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-1747954003806&psc=1&gclid=EAIaIQobChMI_Pe17onn_wIVsB6tBh2x6A8XEAQYASABEgIGXPD_BwE"> Link </a>|
 |Power Supply|	$12.99|	<a href="https://www.amazon.com/COOLM-Adapter-100-240V-Security-Monitoring/dp/B07D5C745W/ref=asc_df_B07D5C745W/?tag=hyprod-20&linkCode=df0&hvadid=647221673261&hvpos=&hvnetw=g&hvrand=14295083690959649477&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-1948335663726&psc=1&gclid=EAIaIQobChMIob3o-Yrn_wIV5h-tBh0xOQG2EAQYASABEgJfz_D_BwE"> Link </a>|
+# Aditional Resources
+Pen Plotter guide : [Click here](urlhttps://howtomechatronics.com/projects/diy-pen-plotter-with-automatic-tool-changer-cnc-drawing-machine/)
 
 
