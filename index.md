@@ -7,7 +7,7 @@ My project is a CNC Pen Plotter which is a machine that can draw. It uses acryli
 | Deven K | Mountain View High School | Mechanical Engineering | Incoming Freshman |
 
 
-![Headstone](Deven-Project (1).png)
+![Headstone](Deven-Project (2).png)
 
   
 # Final Milestone
