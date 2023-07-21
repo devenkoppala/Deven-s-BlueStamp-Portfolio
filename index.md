@@ -69,6 +69,6 @@ Initially, I had tried to complete the digital clock but I had struggled with th
 
 
 # Aditional Resources
-Pen Plotter guide : https://howtomechatronics.com/projects/diy-pen-plotter-with-automatic-tool-changer-cnc-drawing-machine
+Pen Plotter guide : <a href="https://howtomechatronics.com/projects/diy-pen-plotter-with-automatic-tool-changer-cnc-drawing-machine"> Link </a>
 
 
